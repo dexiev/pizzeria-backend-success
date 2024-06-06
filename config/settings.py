@@ -37,7 +37,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 ALLOWED_HOSTS = ["*"]
 X_FRAME_OPTIONS = '*'
 CORS_ORIGIN_ALLOW_ALL = True
-CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/','https://pizzeria-backend.rennyantony.repl.co' ]
+CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/','https://pizzeria-backend-success-1.onrender.com' ]
 
 INSTALLED_APPS = [
     # To allow CORS (Cross-origin resource sharing)
